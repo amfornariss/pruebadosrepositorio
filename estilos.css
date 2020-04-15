@@ -1,0 +1,91 @@
+* {
+margin: 0;
+padding: 0;
+
+}
+
+body{
+
+    text-align: center;
+    background-image: url(imagenes/imagen1.jpg);
+    font-size: 16px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+div#menu{
+
+    background-color: orange;
+    width: 60%;
+    max-width: 56.25em;
+    font-size: 1.56em;
+
+}
+
+.container{
+    background: rgba(red, green, blue, alpha);
+    width: 60%;
+    max-width: 56.25rem;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+
+    }
+
+    .titleimage{
+        display: inline-flex;
+        width: 100%;
+                
+        
+    }
+        .image{
+            width: 100;
+        } 
+
+        .image img{
+            width: 100%;
+            border-radius: 5px;
+        
+        }
+
+
+div.section2{
+width: 100%;
+background-color: rgba(251, 87 , 46 , 0.281);
+position: relative;
+top: 45px;
+font-size: 20px;
+padding: 15px;
+box-sizing: border-box;
+
+}
+
+div.section2 img{
+    width: 200px;
+    position: absolute;
+    bottom: -180px;
+    right: 35px;
+    
+}
+
+p.fixed{
+    font-size: 18px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 30px;
+    width: 300px;
+    background-color: orangered;
+
+}
+
+.Equipos{
+    height: 400px;
+    margin-top: 150px;
+    overflow: auto;
+}
