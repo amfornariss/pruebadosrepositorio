@@ -1,7 +1,6 @@
 * {
 margin: 0;
 padding: 0;
-
 }
 
 body{
@@ -13,7 +12,6 @@ body{
     background-size: 100% 100%;
     background-position: center;
     background-attachment: fixed;
-
 }
 
 div#menu{
@@ -22,7 +20,6 @@ div#menu{
     width: 60%;
     max-width: 56.25em;
     font-size: 1.56em;
-
 }
 
 .container{
@@ -34,14 +31,11 @@ div#menu{
     text-align: justify;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
-
     }
 
     .titleimage{
         display: inline-flex;
-        width: 100%;
-                
-        
+        width: 100%;            
     }
         .image{
             width: 100;
@@ -50,7 +44,6 @@ div#menu{
         .image img{
             width: 100%;
             border-radius: 5px;
-        
         }
 
 
@@ -62,7 +55,6 @@ top: 45px;
 font-size: 20px;
 padding: 15px;
 box-sizing: border-box;
-
 }
 
 div.section2 img{
@@ -70,7 +62,6 @@ div.section2 img{
     position: absolute;
     bottom: -180px;
     right: 35px;
-    
 }
 
 p.fixed{
@@ -81,7 +72,6 @@ p.fixed{
     padding: 30px;
     width: 300px;
     background-color: orangered;
-
 }
 
 .Equipos{
